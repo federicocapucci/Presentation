@@ -19,7 +19,7 @@ Welcome to my Github Demo
 
 - 📫 How to reach me: **federicocapucci@hotmail.com**
 
-- ⚡ Fun fact :- Food 🍲 and Travel 🗺️ are my reasons to live.
+- ⚡ Fun fact :- Food 🍲 and Travel 🗺️ and my family 👪 are my reasons to live :) 
 
 <br>
 
