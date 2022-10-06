@@ -2,7 +2,7 @@
 Welcome to my Github Demo
 
 <h1 align="center">Hi 👋, I'm Federico Capucci</h1>
-<h3 align="center">Jr Fullstack Dev🌟.</h3>
+<h3 align="center">Fullstack Dev🌟.</h3>
 
 <br>
 
@@ -19,7 +19,7 @@ Welcome to my Github Demo
 
 - 📫 How to reach me: **federicocapucci@hotmail.com**
 
-- ⚡ Fun fact :- Food 🍲 and Travel 🗺️ and my family 👪 are my reasons to live :) 
+- ⚡ Fun fact :- Food 🍲 Travel 🗺️ and my family 👪 are my reasons to live :) 
 
 <br>
 
