@@ -66,13 +66,26 @@ Welcome to my Github Demo
       alt="typescriptlang" width="40" height="40" /> </a> 
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
-      alt="angular" width="40" height="40" /> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="60" height="50" /> </a> 
+      alt="angular" width="50" height="50" /> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+      alt="react" width="50" height="50" /> </a> 
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
+      alt="redux" width="40" height="40" /> </a>       
+    <a href="https://formik.org/" target="_blank" rel="noreferrer"> <img
+      src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png"
+      alt="formik" width="50" height="45" /> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="60" height="40" /> </a>       
+      alt="nodejs" width="80" height="60" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="80" height="60" /> </a> 
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/sequelize/sequelize/raw/main/logo.svg"
+      alt="sequelize" width="60" height="50" /> </a> 
+           
 <br>
 
 <h3>Statistical Data :-</h3>
