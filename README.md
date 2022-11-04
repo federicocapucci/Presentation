@@ -2,7 +2,7 @@
 Welcome to my Github Demo
 
 <h1 align="center">Hi 👋, I'm Federico Capucci</h1>
-<h3 align="center">Fullstack Dev🌟.</h3>
+<h3 align="center">Fullstack Web Developer 🐱‍💻 </h3>
 
 <br>
 
